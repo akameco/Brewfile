@@ -1,0 +1,145 @@
+# Cask applications
+# Please copy these lines to your Brewfile and use with `brew-file install`.
+
+# Main tap repository for caskroom/cask
+tap caskroom/cask
+
+# Apps installed by Cask in caskroom/cask
+cask alfred # /Applications/Alfred 2.app
+#cask alfred # /Applications/Alfred 3.app
+cask dropbox # /Applications/Dropbox.app
+cask licecap # /Applications/LICEcap.app
+cask sketch-toolbox # /Applications/Sketch Toolbox.app
+
+# There are new version for following applications.
+cask android-studio # /Applications/Android Studio.app
+cask atom # /Applications/Atom.app
+cask bettertouchtool # /Applications/BetterTouchTool.app
+cask flux # /Applications/Flux.app
+cask gitify # /Applications/Gitify.app
+cask gyazo # /Applications/Gyazo GIF.app
+#cask gyazo # /Applications/Gyazo.app
+cask iterm2 # /Applications/iTerm.app
+cask pycharm-edu # /Applications/PyCharm Edu.app
+cask skim # /Applications/Skim.app
+cask skitch # /Applications/Skitch.app
+cask visual-studio-code # /Applications/Visual Studio Code.app
+
+# Cask is found, but no applications are found (could be fonts, system settins, or installed in other directory.)
+
+# There are new version for following applications.
+cask install karabiner
+cask install virtualbox
+
+# Apps installed directly instead of by Cask in caskroom/cask
+#cask adium # /Applications/Adium.app
+#cask bartender # /Applications/Bartender 2.app
+#cask charles # /Applications/Charles.app
+#cask cmd-eikana # /Applications/⌘英かな.app
+#cask console # /Applications/Utilities/Console.app
+#cask discord # /Applications/Discord.app
+#cask docker # /Applications/Docker.app
+#cask fantastical # /Applications/Fantastical 2.app
+#cask google-chrome # /Applications/Google Chrome.app
+#cask google-photos-backup # /Applications/Google Photos Backup.app
+#cask karabiner-elements # /Applications/Karabiner-Elements.app
+#cask sketch # /Applications/Sketch.app
+#cask steam # /Applications/Steam.app
+#cask vlc # /Applications/VLC.app
+#cask xquartz # /Applications/Utilities/XQuartz.app
+
+# Casks in caskroom/versions
+tap caskroom/versions
+
+# Apps installed directly instead of by Cask in caskroom/versions
+#cask adium-beta # /Applications/Adium.app
+#cask adium-nightly # /Applications/Adium.app
+#cask charles-applejava-beta # /Applications/Charles.app
+#cask charles-applejava # /Applications/Charles.app
+#cask charles-beta # /Applications/Charles.app
+#cask docker-beta # /Applications/Docker.app
+#cask google-chrome-beta # /Applications/Google Chrome.app
+#cask google-chrome-dev # /Applications/Google Chrome.app
+#cask sketch-beta # /Applications/Sketch.app
+#cask vlc-nightly # /Applications/VLC.app
+#cask xquartz-beta # /Applications/Utilities/XQuartz.app
+
+# Apps installed from AppStore
+appstore 443987910 1Password (6.6.4) # /Applications/1Password.app
+appstore 824171161 Affinity Designer (1.5.5) # /Applications/Affinity Designer.app
+appstore 549083868 Display Menu (2.2.2) # /Applications/Display Menu.app
+appstore 408981434 iMovie (10.1.4) # /Applications/iMovie.app
+appstore 409183694 Keynote (7.1) # /Applications/Keynote.app
+appstore 409203825 Numbers (4.1) # /Applications/Numbers.app
+appstore 409201541 Pages (6.1) # /Applications/Pages.app
+appstore 976996075 PixelScheduler (1.1.1) # /Applications/PixelScheduler.app
+appstore 568494494 Pocket (1.6.2) # /Applications/Pocket.app
+appstore 803453959 Slack (2.5.2) # /Applications/Slack.app
+appstore 405580712 StuffIt Expander (15.0.7) # /Applications/StuffIt Expander.app
+appstore 907364780 Tomato One (1.0.6) # /Applications/Tomato One.app
+appstore 497799835 Xcode (8.3.1) # /Applications/Xcode.app
+
+# Apps installed but no casks are available
+# (System applications or directory installed.)
+# /Applications/App Store.app
+# /Applications/Automator.app
+# /Applications/Calculator.app
+# /Applications/Calendar.app
+# /Applications/Chess.app
+# /Applications/Chrome Remote Desktop Host Uninstaller.app
+# /Applications/Contacts.app
+# /Applications/Dashboard.app
+# /Applications/Dictionary.app
+# /Applications/DVD Player.app
+# /Applications/EdgeView.app
+# /Applications/FaceTime.app
+# /Applications/Font Book.app
+# /Applications/GoogleJapaneseInput.localized
+# /Applications/iBooks.app
+# /Applications/Image Capture.app
+# /Applications/iTunes.app
+# /Applications/Karabiner-EventViewer.app
+# /Applications/Launchpad.app
+# /Applications/Live2D Cubism 2.1
+# /Applications/Mail.app
+# /Applications/Maps.app
+# /Applications/MediBangPaintPro.app
+# /Applications/Messages.app
+# /Applications/Microsoft Excel.app
+# /Applications/Microsoft PowerPoint.app
+# /Applications/Microsoft Word.app
+# /Applications/Mission Control.app
+# /Applications/Notes.app
+# /Applications/Photo Booth.app
+# /Applications/Photos.app
+# /Applications/Preview.app
+# /Applications/QuickTime Player.app
+# /Applications/Reminders.app
+# /Applications/Safari.app
+# /Applications/Siri.app
+# /Applications/Stickies.app
+# /Applications/System Preferences.app
+# /Applications/TeX
+# /Applications/TextEdit.app
+# /Applications/Time Machine.app
+# /Applications/uTorrent.app
+# /Applications/XYZware.app
+# /Users/akameco/Applications/Chrome Apps.localized
+# /Users/akameco/Applications/Factorio.app
+# /Applications/Utilities/Activity Monitor.app
+# /Applications/Utilities/Adobe Flash Player Install Manager.app
+# /Applications/Utilities/AirPort Utility.app
+# /Applications/Utilities/Audio MIDI Setup.app
+# /Applications/Utilities/Bluetooth File Exchange.app
+# /Applications/Utilities/Boot Camp Assistant.app
+# /Applications/Utilities/ColorSync Utility.app
+# /Applications/Utilities/Digital Color Meter.app
+# /Applications/Utilities/Disk Utility.app
+# /Applications/Utilities/Grab.app
+# /Applications/Utilities/Grapher.app
+# /Applications/Utilities/Keychain Access.app
+# /Applications/Utilities/Migration Assistant.app
+# /Applications/Utilities/Script Editor.app
+# /Applications/Utilities/System Information.app
+# /Applications/Utilities/Terminal.app
+# /Applications/Utilities/VoiceOver Utility.app
