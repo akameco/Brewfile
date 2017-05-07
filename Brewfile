@@ -99,7 +99,7 @@ brew 'libelf'
 brew 'libevent'
 brew 'libgcrypt'
 brew 'libusb', args: ['universal']
-brew 'libusb-compat', args: ['universal']
+brew 'libusb-compat'
 brew 'libgphoto2'
 brew 'libicns', args: ['universal']
 brew 'libogg'
