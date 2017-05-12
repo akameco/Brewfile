@@ -89,6 +89,7 @@ brew 'graphicsmagick'
 brew 'graphviz'
 brew 'heroku'
 brew 'hub'
+brew 'hugo'
 brew 'xz', args: ['universal']
 brew 'imagemagick'
 brew 'jasper', args: ['universal']
