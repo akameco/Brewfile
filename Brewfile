@@ -21,7 +21,7 @@ brew 'aspcud'
 brew 'autoconf'
 brew 'automake'
 brew 'bazel'
-brew 'freetype', args: ['universal']
+brew 'freetype'
 brew 'fontconfig', args: ['universal']
 brew 'gettext'
 brew 'libffi'
