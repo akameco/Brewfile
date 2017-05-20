@@ -93,7 +93,7 @@ brew "hub"
 brew "hugo"
 brew "xz", args: ["universal"]
 brew "imagemagick"
-brew "jasper", args: ["universal"]
+brew "jasper"
 brew "jemalloc"
 brew "oniguruma"
 brew "jq"
