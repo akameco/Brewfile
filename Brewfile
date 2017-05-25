@@ -137,7 +137,7 @@ brew "rbenv"
 brew "redis"
 brew "rename"
 brew "ruby"
-brew "sane-backends", args: ["universal"]
+brew "sane-backends"
 brew "sl"
 brew "szip"
 brew "tbb"
