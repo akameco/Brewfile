@@ -81,7 +81,6 @@ brew "gl2ps"
 brew "gnu-tar"
 brew "lua"
 brew "gnuplot", args: ["with-qt@5.7"]
-brew "libtasn1", args: ["universal"]
 brew "libunistring"
 brew "nettle"
 brew "gnutls"
