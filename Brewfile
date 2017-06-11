@@ -22,7 +22,7 @@ brew "autoconf"
 brew "automake"
 brew "bazel"
 brew "freetype"
-brew "fontconfig", args: ["universal"]
+brew "fontconfig"
 brew "gettext"
 brew "libffi"
 brew "glib"
