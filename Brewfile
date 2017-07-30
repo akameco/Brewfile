@@ -77,7 +77,7 @@ brew "gl2ps"
 brew "glpk"
 brew "gnu-tar"
 brew "lua"
-brew "gnuplot", args: ["with-qt@5.7"]
+brew "gnuplot"
 brew "libunistring"
 brew "nettle"
 brew "gnutls"
