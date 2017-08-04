@@ -177,6 +177,7 @@ cask "pycharm-edu"
 cask "sketch-toolbox"
 cask "skim"
 cask "skitch"
+cask "vagrant"
 cask "virtualbox"
 cask "visual-studio-code"
 mas "1Password", id: 443987910
