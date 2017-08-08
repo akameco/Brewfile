@@ -46,8 +46,6 @@ brew "curl"
 brew "zeromq"
 brew "czmq"
 brew "direnv"
-brew "jpeg", args: ["universal"]
-brew "little-cms2", args: ["universal"]
 brew "ghostscript"
 brew "epstool"
 brew "lame"
@@ -67,7 +65,7 @@ brew "fontforge"
 brew "gawk"
 brew "isl@0.14"
 brew "gcc@5"
-brew "gd", args: ["universal"]
+brew "gd"
 brew "ghc"
 brew "ghq"
 brew "gibo"
