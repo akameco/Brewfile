@@ -113,7 +113,7 @@ brew "makedepend"
 brew "mas"
 brew "memcached"
 brew "metis"
-brew "mongodb"
+brew "mongodb", restart_service: true
 brew "mono"
 brew "msgpack"
 brew "net-snmp"
