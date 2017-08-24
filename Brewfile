@@ -1,6 +1,7 @@
 tap "caskroom/cask"
 tap "caskroom/versions"
 tap "cloudfoundry/tap"
+tap "go-delve/delve"
 tap "homebrew/binary"
 tap "homebrew/bundle"
 tap "homebrew/core"
