@@ -190,7 +190,6 @@ mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "PixelScheduler", id: 976996075
-mas "Pocket", id: 568494494
 mas "Slack", id: 803453959
 mas "StuffIt Expander", id: 405580712
 mas "Tomato One", id: 907364780
