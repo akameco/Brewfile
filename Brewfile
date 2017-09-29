@@ -185,6 +185,7 @@ cask "visual-studio-code"
 mas "1Password", id: 443987910
 mas "Affinity Designer", id: 824171161
 mas "Display Menu", id: 549083868
+mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
