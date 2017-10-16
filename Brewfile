@@ -182,7 +182,6 @@ cask "skitch"
 cask "vagrant"
 cask "virtualbox"
 cask "visual-studio-code"
-mas "1Password", id: 443987910
 mas "Affinity Designer", id: 824171161
 mas "Display Menu", id: 549083868
 mas "iMovie", id: 408981434
