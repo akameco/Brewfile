@@ -164,6 +164,7 @@ brew "rcmdnk/file/brew-file"
 brew "sanemat/font/ricty", args: ["vim-powerline"]
 cask "alfred"
 cask "android-studio"
+cask "atom"
 cask "bettertouchtool"
 cask "dropbox"
 cask "flux"
