@@ -1,3 +1,4 @@
+tap "heroku/brew"
 tap "cloudfoundry/tap"
 tap "homebrew/dupes"
 tap "homebrew/fuse"
