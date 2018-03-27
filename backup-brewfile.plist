@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>backup-brewfile</string>
+		<key>EnvironmentVariables</key>
+    <dict>
+        <key>PATH</key>
+        <string>/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+        <key>HOME</key>
+				<string>/Users/akameco</string>
+    </dict>
+    <key>ProgramArguments</key>
+    <array>
+			<string>/Users/akameco/src/github.com/akameco/Brewfile/backup-brew.sh</string>
+    </array>
+    <key>UserName</key>
+    <string>akameco</string>
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>9</integer>
+        <key>Minute</key>
+        <integer>30</integer>
+    </dict>
+</dict>
+</plist>
